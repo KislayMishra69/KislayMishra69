@@ -20,4 +20,4 @@ I am a
 - Unity3D
 - Heroku
 
-You can check out my portfolio website <a href="https://www.kislaymishra69.github.io/website.html">Here!</a>
+You can check out my portfolio website <a href="https://kislaymishra69.github.io/website.html">Here!</a>
