@@ -16,7 +16,6 @@ I am a
 
 ### Softwares I'm familiar with
 - Visual Studio Code
-- Vercel
 - Unity3D
 - Heroku
 
