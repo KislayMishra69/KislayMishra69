@@ -4,6 +4,7 @@ I am a
 - Student
 - Game Developer
 - Web Developer
+- Video/Photo Editor
 - Open-Source enthusiast
 - White-Hat Hacker
 
