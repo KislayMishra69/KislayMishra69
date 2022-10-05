@@ -1,5 +1,9 @@
 ## Hi, I am Kislay Mishra👋🏼
 
+
+[![@Kislay's Holopin board](https://holopin.io/api/user/board?user=kislaymishra69)](https://holopin.io/@KislayMishra69)
+
+
 I am a
 - Student
 - Game Developer
@@ -21,7 +25,3 @@ I am a
 - Heroku
 
 You can check out my <a href="https://kislaymishra69.github.io/website"> portfolio website</a>
-
-
-
-[![@rphi's Holopin board](https://holopin.io/api/user/board?user=kislaymishra69)](https://holopin.io/@KislayMishra69)
