@@ -1,8 +1,7 @@
 ## Hi, I am Kislay Mishra👋🏼
 
 
-[![@Kislay's Holopin board](https://holopin.io/api/user/board?user=kislaymishra69)](https://holopin.io/@KislayMishra69)
-
+[![An image of @kislaymishra69's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kislaymishra69)](https://holopin.io/@kislaymishra69)
 
 I am a
 - Student
